@@ -2,4 +2,4 @@
 my first github repository.
 
 test commit functionality.
-no real codes is changed.
+no real code is changed.
